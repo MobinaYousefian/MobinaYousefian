@@ -6,8 +6,9 @@
 &nbsp;
 
 ### Frameworks and Libraries I used:
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" width="40" title="React"/> &nbsp; <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" width="40" title="Next.js"/> &nbsp; <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" width="40" title="Tailwind CSS"/> &nbsp; <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" width="40" title="Redux Toolkit"/> &nbsp; <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" width="40" title="Material UI"/> &nbsp; <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" width="40" title="Axios"/> &nbsp; <img src="https://cdn.simpleicons.org/reacthookform/EC5990" height="40" width="40" title="React Hook Form"/> &nbsp; <img src="https://cdn.simpleicons.org/swiper/6332F6" height="40" width="40" title="Swiper"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" width="40" title="React"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" width="40" title="Next.js"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" width="40" title="Tailwind CSS"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" width="40" title="Redux Toolkit"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" width="40" title="Material UI"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/shadcnui/000000" height="40" width="40" title="shadcnui"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/swiper/6332F6" height="40" width="40" title="Swiper"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/reacthookform/EC5990" height="40" width="40" title="React Hook Form"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" width="40" title="Axios"/>
 
+(Hover to read the title)
 &nbsp;
 ___
 ##### My interests:
